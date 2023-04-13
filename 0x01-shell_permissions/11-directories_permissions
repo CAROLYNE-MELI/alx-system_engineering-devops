@@ -1,2 +1,2 @@
  #!/bin/bash
-chmod --refrencingolleh hello 
+chmod ~R+u .
